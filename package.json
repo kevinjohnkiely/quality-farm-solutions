@@ -1,0 +1,16 @@
+{
+  "name": "qualityfarmsolutions2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kevinjohnkiely.github.io/quality-farm-solutions",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
